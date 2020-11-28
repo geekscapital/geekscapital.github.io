@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/geekscapital.github.io/static/css/main.f4811e4c.chunk.css",
+    "main.js": "/geekscapital.github.io/static/js/main.fc6aa53b.chunk.js",
+    "main.js.map": "/geekscapital.github.io/static/js/main.fc6aa53b.chunk.js.map",
+    "runtime-main.js": "/geekscapital.github.io/static/js/runtime-main.e62b7dc1.js",
+    "runtime-main.js.map": "/geekscapital.github.io/static/js/runtime-main.e62b7dc1.js.map",
+    "static/js/2.5fc8dc54.chunk.js": "/geekscapital.github.io/static/js/2.5fc8dc54.chunk.js",
+    "static/js/2.5fc8dc54.chunk.js.map": "/geekscapital.github.io/static/js/2.5fc8dc54.chunk.js.map",
+    "static/js/3.4180bc46.chunk.js": "/geekscapital.github.io/static/js/3.4180bc46.chunk.js",
+    "static/js/3.4180bc46.chunk.js.map": "/geekscapital.github.io/static/js/3.4180bc46.chunk.js.map",
+    "index.html": "/geekscapital.github.io/index.html",
+    "static/css/main.f4811e4c.chunk.css.map": "/geekscapital.github.io/static/css/main.f4811e4c.chunk.css.map",
+    "static/js/2.5fc8dc54.chunk.js.LICENSE.txt": "/geekscapital.github.io/static/js/2.5fc8dc54.chunk.js.LICENSE.txt",
+    "static/media/GeeksCapitalLogo.37c81644.svg": "/geekscapital.github.io/static/media/GeeksCapitalLogo.37c81644.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e62b7dc1.js",
+    "static/js/2.5fc8dc54.chunk.js",
+    "static/css/main.f4811e4c.chunk.css",
+    "static/js/main.fc6aa53b.chunk.js"
+  ]
+}
